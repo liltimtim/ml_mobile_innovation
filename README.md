@@ -38,3 +38,6 @@ Specifically form Form-W2 revision 2017 [here](https://www.irs.gov/pub/irs-prior
 Our aim is to have models that can classify each W2 form type that are supported by the IRS found [here](https://apps.irs.gov/app/picklist/list/priorFormPublication.html?sortColumn=currentYearRevDate&indexOfFirstRow=0&value=W-2&criteria=formNumber&resultsPerPage=25&isDescending=true)
 
 We can try for the W2 gambling form is things go well.
+
+# Tensorflow Javascript
+If you want something that works across platforms then use the Javascript version of Tensorflow found [here](https://js.tensorflow.org)
